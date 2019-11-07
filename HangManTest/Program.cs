@@ -109,7 +109,7 @@ namespace HangMan.cs.hange_man
             Console.Title = ("HangMan");
 
             // secretWord
-            string secretword = "foreground";
+            string secretword = "superwoman";
             List<string> letterGuessed = new List<string>();
 
 
